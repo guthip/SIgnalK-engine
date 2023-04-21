@@ -1,2 +1,2 @@
-# SIgnalK-engine
+# SignalK-engine
 Engine sensors
